@@ -1,0 +1,11 @@
+.bg-container{
+    background-color: aquamarine;
+    height: 100vh;
+}
+
+.image{
+    height: 20vh;
+    width: 20vw;
+    border-radius: 20px;
+    margin: 30px;
+}
